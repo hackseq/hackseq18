@@ -11,9 +11,13 @@ The twitter account for this event is [@hackseq](https://twitter.com/search?f=tw
 
 This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hackathons) format.
 
-## Steering Committee
+## Organizing Committee
 
-[To be formed](https://github.com/hackseq/hackseq18/issues/1)
+* Artem Babaian (@ababaian)
+* Emre Erhan (@emreerhan)
+* Jennifer Lin (@jenjaelin)
+* Bara Orabi (@baraaorabi)
+* Alex Sweeten (@sweetiepi)
 
 ## Sponsors
 
