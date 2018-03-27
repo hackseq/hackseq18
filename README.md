@@ -17,9 +17,15 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 
 * Artem Babaian (@ababaian)
 * Emre Erhan (@emreerhan)
+* Kristen Gray (@klgray25)
+* Justin Jia (@imasianxd)
+* Venus Lau (@vlauu)
 * Jennifer Lin (@jenjaelin)
+* Sasha Maslova (@smaslova)
+* Noushin Nabavi (@NoushinN)
 * Bara Orabi (@baraaorabi)
 * Alex Sweeten (@sweetiepi)
+
 
 ## Sponsors
 
