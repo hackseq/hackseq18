@@ -25,8 +25,3 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 * Noushin Nabavi (@NoushinN)
 * Bara Orabi (@baraaorabi)
 * Alex Sweeten (@sweetiepi)
-
-
-## Sponsors
-
-...
