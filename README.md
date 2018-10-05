@@ -25,3 +25,14 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 * Noushin Nabavi (@NoushinN)
 * Bara Orabi (@baraaorabi)
 * Alex Sweeten (@sweetiepi)
+
+## Project Repo Links
+
+1. [REUSE](https://github.com/chorltsd/REUSE)
+2. [Genome Assembler Components](https://github.com/hackseq/modular-assembly-hs18)
+3. [TaraCyc](https://github.com/hackseq/tara-cyc-hs18)
+4. [beRi](https://github.com/datasnakes/beRi)
+5. [Alignment-free Pathogen Genomics](https://github.com/SweetiePi/bioncd-hackseq)
+6. [Simulating Transcriptome Structural Variants](https://github.com/creisle/rna_sv_simulator)
+7. [Blockchain for Infectious Disease](https://github.com/vghorakavi/InfectiousBlockchain)
+8. [Anatomy of Morbidity](https://github.com/NoushinN/anatomy-of-morbidity)
