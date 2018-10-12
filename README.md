@@ -2,6 +2,8 @@
 
 Organizational files and discussions about hackseq 2018
 
+[See the hs18 Wiki on HOWTO Organize a hackseq](https://github.com/hackseq/hackseq18)
+
 #### Question? --> [Email Us](mailto:hackseq@gmail.com)
 
 ## When? Where? What?  
